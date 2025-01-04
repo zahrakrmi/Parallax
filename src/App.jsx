@@ -10,25 +10,25 @@ import Zoom from './components/zoom/zoom'
 import Lenis from '@studio-freight/lenis/types'
 
 export default function App() {
-  useEffect( () => {
+//   useEffect( () => {
 
-    const lenis = new Lenis()
+//     const lenis = new Lenis()
 
    
 
-    function raf(time) {
+//     function raf(time) {
 
-        lenis.raf(time)
+//         lenis.raf(time)
 
-        requestAnimationFrame(raf)
+//         requestAnimationFrame(raf)
 
-    }
+//     }
 
 
 
-    requestAnimationFrame(raf)
+//     requestAnimationFrame(raf)
 
-},[])
+// },[])
   return (
     <>
     <CurserManager />
