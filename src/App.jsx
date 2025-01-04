@@ -1,10 +1,8 @@
 
 import React, { useEffect, useState } from 'react'
-import Navbar from './components/navbar/navbar'
+import Navbar from './components/navbar/Navbar'
 import Header from './components/header/Header'
 import CurserManager from './components/CursorManager/CurserManager'
-import Featured from './components/Featured/Featured'
-
 import Gallery from './components/Gallery/Gallery'
 import Footer from './footer/Footer'
 import Text from './components/text/Text'
