@@ -6,8 +6,8 @@ import CurserManager from './components/CursorManager/CurserManager'
 import Gallery from './components/Gallery/Gallery'
 import Footer from './footer/Footer'
 import Text from './components/text/Text'
-import Zoom from './components/zoom/zoom'
-import Lenis from '@studio-freight/lenis/types'
+import Zoom from './components/zoom/Zoom'
+
 
 export default function App() {
 //   useEffect( () => {
