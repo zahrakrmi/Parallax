@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 ![23](https://github.com/user-attachments/assets/60753d17-ee78-4921-b2b8-fb2cca139742)
 ![33](https://github.com/user-attachments/assets/73b20373-a810-4127-8c73-0a73a4d4b466)
 - [Demo Project](https://parallax-yy3a.vercel.app/)
-
+ 
 - Created - 2025-01-04
 - Code by me
 - Technologies Used - Tailwind , JavaScript , React
